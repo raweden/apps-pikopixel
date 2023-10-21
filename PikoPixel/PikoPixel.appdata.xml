@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2013-2018,2020,2023 Josh Freeman <pikopixel_appdata_AT_twilightedge.com> -->
+<component type="desktop-application">
+  <id>PikoPixel</id>
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>AGPL-3.0+</project_license>
+  <name>PikoPixel</name>
+  <summary>Pixel-art image editor</summary>
+  <description>
+    <p>PikoPixel is a free, open-source application for drawing and editing pixel-art images and icons.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Easy to use</li>
+      <li>Unlimited undo</li>
+      <li>Supports multiple layers</li>
+      <li>Customizable canvas background and grid patterns</li>
+      <li>Hotkey-activated popup panels</li>
+      <li>Export upscaled images</li>
+      <li>Supports linear (gamma-correct) color blending</li>
+    </ul>
+    <p>Originally a Mac app, PikoPixel runs natively on GNU/Linux by using the GNUstep framework.</p>
+  </description>
+  <categories>
+    <category>Graphics</category>
+    <category>2DGraphics</category>
+    <category>RasterGraphics</category>
+  </categories>
+  <launchable type="desktop-id">PikoPixel.desktop</launchable>
+  <releases>
+    <release version="1.0 BETA10b" date="2023-03-02" />
+    <release version="1.0 BETA10a" date="2023-02-19" />
+    <release version="1.0 BETA10" date="2020-12-31" />
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image type="source" width="1280" height="720">https://screenshots.debian.net/shrine/screenshot/23198/simage/large-9e8e5c7476e202d6a071b513c1c6d24c.png</image>
+    </screenshot>
+    <screenshot>
+      <image type="source" width="1280" height="800">https://screenshots.debian.net/shrine/screenshot/16084/simage/large-eec7d6c92dfa74ecac3e53751f340eec.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://twilightedge.com/mac/pikopixel/</url>
+  <developer_name>Josh Freeman</developer_name>
+  <update_contact>pikopixel_appdata_AT_twilightedge.com</update_contact>
+  <content_rating type="oars-1.0" />
+</component>
+
